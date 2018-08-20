@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-
 x-kinRank: "8"
 x-alexaRank: "2107685"
 tags: Water
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-20"
+modified: "2018-08-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/axa-assistance/apis.md
 specificationVersion: "0.14"
 apis:
@@ -18,8 +18,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
-  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data API,
-    General Data API
+  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data, General
+    Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/axa-assistance/assistancev1homewater-damagedeclarationsdeclaration-idpolicy-holders-get-postman.md
@@ -31,8 +31,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
-  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data API,
-    General Data API
+  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data, General
+    Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/axa-assistance/assistancev1homewater-damagedeclarationsdeclaration-idpolicy-holders-get-postman.md
@@ -48,8 +48,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
-  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data API,
-    General Data API
+  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data, General
+    Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/axa-assistance/assistancev1homewater-damagedeclarationsdeclaration-idpolicy-holders-get-postman.md
@@ -69,8 +69,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
-  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data API,
-    General Data API
+  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data, General
+    Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/axa-assistance/assistancev1homewater-damagedeclarationsdeclaration-idpolicy-holders-get-postman.md
@@ -94,8 +94,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
-  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data API,
-    General Data API
+  tags: Technology, internet, Insurance, API Provider, Profiles, Relative Data, General
+    Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/axa-assistance/assistancev1homewater-damagedeclarationsdeclaration-idpolicy-holders-get-postman.md

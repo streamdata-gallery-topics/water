@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/200-fitbit
 x-kinRank: "9"
 x-alexaRank: "2266"
 tags: Water
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-20"
+modified: "2018-08-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/fitbit/apis.md
 specificationVersion: "0.14"
 apis:
@@ -20,7 +20,7 @@ apis:
   humanURL: http://fitbit.com
   baseURL: https://api.fitbit.com//1
   tags: Sports, Excercise, Devices, Fitness, Wearables, Indie EdTech Data Jam, Stack,
-    Mobile, Technology, API Provider, , Profiles, Relative Data API, Service API
+    Mobile, Technology, API Provider, , Profiles, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/fitbit/userfoodslogwaterwaterlogid-json-delete-postman.md
@@ -33,7 +33,7 @@ apis:
   humanURL: http://fitbit.com
   baseURL: https://api.fitbit.com//1
   tags: Sports, Excercise, Devices, Fitness, Wearables, Indie EdTech Data Jam, Stack,
-    Mobile, Technology, API Provider, , Profiles, Relative Data API, Service API
+    Mobile, Technology, API Provider, , Profiles, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/fitbit/userfoodslogwaterwaterlogid-json-delete-postman.md
