@@ -8,8 +8,8 @@ image: ""
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Water
-created: "2018-08-20"
-modified: "2018-08-20"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/national-snow-and-ice-data-center/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,6 +26,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/national-snow-and-ice-data-center/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://national.renewable.energy.laboratory.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://national.snow.and.ice.data.center.stack.network
 - type: x-website

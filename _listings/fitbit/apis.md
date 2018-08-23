@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/200-fitbit
 x-kinRank: "9"
 x-alexaRank: "2266"
 tags: Water
-created: "2018-08-20"
-modified: "2018-08-20"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/fitbit/apis.md
 specificationVersion: "0.14"
 apis:
@@ -60,6 +60,8 @@ x-common:
   url: https://www.fitbit.com/apis.json
 - type: x-openapi
   url: https://dev.fitbit.com/reference/web-api/explore/fitbit-web-api.swagger.json
+- type: x-api-gallery
+  url: http://first.trust.bank.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://fitbit.stack.network
 - type: x-apigee-console
