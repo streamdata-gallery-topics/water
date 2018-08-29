@@ -1,53 +1,109 @@
 {
-	"name": "National Snow and Ice Data Center",
-	"x-slug": "national-snow-and-ice-data-center",
-	"description": "NSIDC manages and distributes scientific data, creates tools for data access, supports data users, performs scientific research, and educates the public about the cryosphere.",
-	"image": "",
-	"x-kinRank": "7",
-	"x-alexaRank": "0",
-	"tags": "Water",
-	"created": "2018-08-23",
-	"modified": "2018-08-23",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/water\/master\/_listings\/national-snow-and-ice-data-center\/apis.md",
+	"name": "Streadata.io API Gallery - Water",
+	"description": "This is a repository of water APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/water.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://water.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "NSIDC Web Service Documentation Index",
-			"x-api-slug": "nsidc-web-service-documentation-index",
-			"description": "NSIDC manages and distributes scientific data, creates tools for data access, supports data users, performs scientific research, and educates the public about the cryosphere.",
-			"image": "",
-			"humanURL": "http:\/\/nsidc.org",
-			"baseURL": "https:\/\/nsidc.org\/\/api\/dataset\/2",
+			"name": "Fitbit",
+			"x-api-slug": "fitbit",
+			"description": "Find your fit with Fitbits family of fitness products that help you stay motivated and improve your health by tracking your activity, exercise, food, weight and sleep.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/200-fitbit.jpg",
+			"humanURL": "http://fitbit.com",
+			"baseURL": "https://api.fitbit.com//1",
 			"tags": "Water",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/water\/master\/_listings\/national-snow-and-ice-data-center\/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/fitbit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EPA Envirofacts",
+			"x-api-slug": "epa-envirofacts",
+			"description": "EPAs purpose is to ensure that:    -  all Americans are protected from significant risks to human health and the environment where they live, learn and work;    -  national efforts to reduce environmental risk are based on the best available scientifi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/773-epa-envirofacts.jpg",
+			"humanURL": "http://www.epa.gov",
+			"baseURL": "https://ofmpub.epa.gov//echo",
+			"tags": "Water",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/epa-envirofacts/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NWCC Air and Water Database",
+			"x-api-slug": "nwcc-air-and-water-database",
+			"description": "USDA is committed to providing safe and nutritious food, conservation, sustainable food production and revitalizing rural America.Comment Policy: http://www.usda.gov/newmedia",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1452-nwcc-air-and-water-database.jpg",
+			"humanURL": "http://www.wcc.nrcs.usda.gov/web_service/awdb_web_service_landing.htm",
+			"baseURL": "https:///",
+			"tags": "Water",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/nwcc-air-and-water-database/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "Water",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "National Snow and Ice Data Center",
+			"x-api-slug": "national-snow-and-ice-data-center",
+			"description": "NSIDC manages and distributes scientific data, creates tools for data access, supports data users, performs scientific research, and educates the public about the cryosphere.",
+			"image": "",
+			"humanURL": "http://nsidc.org",
+			"baseURL": "https://nsidc.org//api/dataset/2",
+			"tags": "Water",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/national-snow-and-ice-data-center/openapi.md"
 				}
 			]
 		}
 	],
-	"x-common": [
-		{
-			"type": "x-api-gallery",
-			"url": "http:\/\/national.renewable.energy.laboratory.api.gallery.streamdata.io"
-		},
-		{
-			"type": "x-api-stack",
-			"url": "http:\/\/national.snow.and.ice.data.center.stack.network"
-		},
-		{
-			"type": "x-website",
-			"url": "http:\/\/nsidc.org"
-		}
-	],
+	"tags": "Water",
 	"include": [
-	],
-	"maintainers": [
 		{
-			"FN": "Kin Lane",
-			"x-twitter": "apievangelist",
-			"email": "info@apievangelist.com"
+			"name": "Fitbit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/fitbit/apis.yaml"
+		},
+		{
+			"name": "EPA Envirofacts",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/epa-envirofacts/apis.yaml"
+		},
+		{
+			"name": "NWCC Air and Water Database",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/nwcc-air-and-water-database/apis.yaml"
+		},
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/axa-assistance/apis.yaml"
+		},
+		{
+			"name": "National Snow and Ice Data Center",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/water/master/_listings/national-snow-and-ice-data-center/apis.yaml"
 		}
 	]
 }
